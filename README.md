@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi-11)](https://github.com/Adi-11/github-readme-stats)
 <!--
 **Adi-11/Adi-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
