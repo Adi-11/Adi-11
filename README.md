@@ -1,5 +1,11 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi-11)](https://github.com/Adi-11/github-readme-stats)
+<h1>Hi there 👋</h1>
+
+<img align="center" alt="Coding" width="100" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">
+</br>
+
+<a href="https://github.com/Adi-11">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi-11&show_icons=true&include_all_commits=true&theme=dark&count_private=true">
+</a>
 <!--
 **Adi-11/Adi-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
