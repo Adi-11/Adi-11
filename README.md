@@ -6,6 +6,11 @@
 <a href="https://github.com/Adi-11">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi-11&show_icons=true&include_all_commits=true&theme=dark&count_private=true">
 </a>
+<p><p>
+<a href="https://github.com/Adi-11">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adi-11&theme=dark&count_private=true">
+</a>
+
 <!--
 **Adi-11/Adi-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
