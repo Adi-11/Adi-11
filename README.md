@@ -13,5 +13,5 @@
 
 <p align="left">
 <a href="mailto:adityaagupta31@gmail.com" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/Gmail-Aditya-ea4335?style=for-the-badge&logo=gmail" alt="adityaagupta31@gmail.com" height="30"/></a>
-<a href="https://www.linkedin.com/in/aditya-b217b1169" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/LinkedIn-aditya--b217b1169-0A66C2?style=for-the-badge&logo=linkedin" alt="anshuman-dubey-b95100171" height="30"/></a>
+<a href="https://www.linkedin.com/in/aditya-b217b1169" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/LinkedIn-aditya--b217b1169-0A66C2?style=for-the-badge&logo=linkedin" alt="aditya-b217b1169" height="30"/></a>
 </p>
