@@ -7,9 +7,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adi-11&show_icons=true&include_all_commits=true&theme=dark&count_private=true">
 </a>
 <p><p>
-<a href="https://github.com/Adi-11">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adi-11&theme=dark&count_private=true">
-</a>
 
 <p align="left">
 <a href="mailto:adityaagupta31@gmail.com" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/Gmail-Aditya-ea4335?style=for-the-badge&logo=gmail" alt="adityaagupta31@gmail.com" height="30"/></a>
