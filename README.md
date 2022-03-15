@@ -8,9 +8,8 @@
 </a>
 <p><p>
 
-<p align="left">
-<a href="mailto:adityaagupta31@gmail.com" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/Gmail-Aditya-ea4335?style=for-the-badge&logo=gmail" alt="adityaagupta31@gmail.com" height="30"/></a>
-<a href="https://www.linkedin.com/in/aditya-b217b1169" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/LinkedIn-aditya--b217b1169-0A66C2?style=for-the-badge&logo=linkedin" alt="aditya-b217b1169" height="30"/></a>
+<p>
+<a href="https://www.linkedin.com/in/aditya-b217b1169/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:adityaagupta31@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id={Adi-11}.{github.com/Adi-11})
